@@ -67,7 +67,11 @@ MonoBehaviour:
     x: 1162.4
     y: 0
     width: 450
+<<<<<<< HEAD
     height: 931
+=======
+    height: 923
+>>>>>>> UnityExample/dev
   m_MinSize: {x: 276, y: 71}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 13}
@@ -93,7 +97,11 @@ MonoBehaviour:
     x: 0
     y: 0
     width: 360
+<<<<<<< HEAD
     height: 551
+=======
+    height: 547
+>>>>>>> UnityExample/dev
   m_MinSize: {x: 201, y: 221}
   m_MaxSize: {x: 4001, y: 4021}
   m_ActualView: {fileID: 14}
@@ -453,7 +461,11 @@ MonoBehaviour:
     x: 1163.4
     y: 19
     width: 449
+<<<<<<< HEAD
     height: 910
+=======
+    height: 902
+>>>>>>> UnityExample/dev
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
@@ -502,7 +514,11 @@ MonoBehaviour:
     x: 0
     y: 19
     width: 359
+<<<<<<< HEAD
     height: 530
+=======
+    height: 526
+>>>>>>> UnityExample/dev
   m_SerializedDataModeController:
     m_DataMode: 0
     m_PreferredDataMode: 0
